@@ -1,8 +1,8 @@
 Bot com a utilização de bate-pontos.
 
-`br!iniciar` - Inicia a contagem do bate ponto:![image](https://github.com/user-attachments/assets/f63ec38b-96bc-419d-883d-6106073e97a0)
+`br!iniciar` - Inicia a contagem do bate ponto.
 
-`br!parar` - Para a contagem do bate ponto.![image](https://github.com/user-attachments/assets/b468aedc-311e-4b94-ba28-b9c0ecca25b6)
+`br!parar` - Para a contagem do bate ponto.
 
 Não esqueça de trocar o token e definir o canal com o seu ID em `application.properties` ao iniciar o bot.
 
